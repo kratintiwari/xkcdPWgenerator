@@ -21,4 +21,6 @@ optional arguments:<br>
   -s SYMBOLS, --symbols<br>
                         insert SYMBOLS random symbols in the password (default=0)<br>
 
-                        
+<br>
+
+<i>The wordlist comes with the folder but one can include any and specify the path in the code 
