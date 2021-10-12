@@ -24,3 +24,7 @@ optional arguments:<br>
 <br>
 
 <i>The wordlist comes with the folder but one can include any and specify the path in the code 
+<br>
+<i>the tool runs in python 3,<br> 
+  <b>python3 xkcdpwgen.py [options]</b><br>
+  <i> This would preety much do it.  
